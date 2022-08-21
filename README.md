@@ -18,5 +18,6 @@
   - 해인: 논문 추가 조사
   - 은희: 논문에서 이해 못한 부분
   
-- 2022-08-09-화 6시
+- 2022-08-21-일 8시
   - Learning Phase Representation using RNN Encoder-Decoder 코드 구현
+  - RNN 두 번째 논문 읽어오기
